@@ -22,3 +22,5 @@ Vì:
     -Xu hướng chuyển đổi số của doanh nghiệp.
     -Hệ sinh thái ứng dụng (Google Play, App Store) mở rộng.
     -Cơ hội việc làm và thu nhập hấp dẫn.
+
+![download](https://github.com/user-attachments/assets/b0a10c19-d979-48db-8f8f-d2c5625312da)
